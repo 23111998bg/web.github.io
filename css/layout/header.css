@@ -1,0 +1,8 @@
+﻿.header {
+    width: calc(100% - 226px);
+    margin-left: 226px;
+    background-color: yellow;
+    position: absolute;
+    top: 0;
+    height: 48px;
+}
